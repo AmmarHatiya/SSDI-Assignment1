@@ -10,7 +10,7 @@ public interface Builder {
 
     Builder setScreenSize(int ScreenSize);
 
-    Builder setScreenResolution(int ScreenResolution);
+    Builder setScreenResolution(String ScreenResolution);
 
     Builder setPortable(boolean Portable);
 

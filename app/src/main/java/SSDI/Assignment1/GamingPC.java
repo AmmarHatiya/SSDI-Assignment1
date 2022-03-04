@@ -31,6 +31,7 @@ public class GamingPC {
             this.MonitorNum = MonitorNum;
 
          }
+         
 
     
 }
