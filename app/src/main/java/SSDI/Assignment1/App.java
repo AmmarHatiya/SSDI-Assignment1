@@ -15,6 +15,6 @@ public class App {
         .setMonitorNum(2).setRGB(true)
         .setScreenResolution("1920 x 1080").setScreenSize(52)
         .setStorageVal(500).createGamingPC();
-        System.out.println(homesetup);
+        System.out.println("My Gaming PC OBJECT: " + homesetup);
     }
 }
