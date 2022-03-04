@@ -13,6 +13,9 @@ public class GamingPC {
         private boolean RGB;
         private int MonitorNum;
 
+        public String printcpu(){
+            return this.CPUName;
+        }
 
         /* Constructor */
         public GamingPC(int StorageVal,
